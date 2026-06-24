@@ -1,7 +1,7 @@
 # Python
 Author: Yuvraj Singh Sandhu
 <br>
-These are my first Python Codes.
+These are my first Python programmes.
 <br>
 While I am studying AI and ML with Python.
 <br>
