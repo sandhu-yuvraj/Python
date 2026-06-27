@@ -13,5 +13,6 @@ While I am studying AI and ML with Python.
 - `bmi.py` - Calculates BMI and classifies it.
 - `calculator.py` - Takes two numbers as input from the user and performs basic arithmetic operations.
 - `fizzbuzz-simple.py` - Simplified fizzbuzz problem, checks divisibility of a number by 3 and 5.
+- `fizzbuzz.py` - The FizzBuzz problem.
 - `grade.py` - Takes marks as input and displays the grade.
 - `hello-world` - Prints "Hello, World".
