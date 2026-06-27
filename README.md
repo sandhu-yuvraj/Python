@@ -10,6 +10,7 @@ While I am studying AI and ML with Python.
 - `add-integers.py` - Takes two integers as input from user and prints their sum.
 - `age-calculator.py` - Takes year of birth as input from user and prints the age as of 2026.
 - `area-of-rectangle.py` - Takes length and width as input from user and prints the area.
+- `bmi.py` - Calculates BMI and classifies it.
 - `calculator.py` - Takes two numbers as input from the user and performs basic arithmetic operations.
 - `grade.py` - Takes marks as input and displays the grade.
 - `hello-world` - Prints "Hello, World".
