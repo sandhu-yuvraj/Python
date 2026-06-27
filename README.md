@@ -12,5 +12,6 @@ While I am studying AI and ML with Python.
 - `area-of-rectangle.py` - Takes length and width as input from user and prints the area.
 - `bmi.py` - Calculates BMI and classifies it.
 - `calculator.py` - Takes two numbers as input from the user and performs basic arithmetic operations.
+- `fizzbuzz-simple.py` - Simplified fizzbuzz problem, checks divisibility of a number by 3 and 5.
 - `grade.py` - Takes marks as input and displays the grade.
 - `hello-world` - Prints "Hello, World".
