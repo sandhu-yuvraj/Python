@@ -21,5 +21,5 @@ While I am studying AI and ML with Python.
 - `fizzbuzz.py` - The FizzBuzz problem.
 - `grade.py` - Takes marks as input and displays the grade.
 - `hello-world` - Prints "Hello, World".
-- `tables.py` - Prints the table of a desired number.
+- `tables.py` - Prints the table of a desired number to desired number of multiples.
 - `tip.py` - Calculates the amount to be given as tip based on bill and percentage of it to be tipped.
